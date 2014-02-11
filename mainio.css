@@ -1,0 +1,24 @@
+body {
+	background-image:url('image-background.jpg');
+}
+
+#menu {
+    width: 1000px;
+    height: 35px;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+	margin-left: 150px;
+    background-color: #8AD9FF;
+        border-radius: 8px;
+}
+#menu ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+#menu li { 
+display: inline; 
+padding: 20px; 
+}
