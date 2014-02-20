@@ -82,7 +82,7 @@ font-size: 15px;
 #text{
 z-index: -1;
 position: absolute;
-
+text-align: left;
 }
 #footerbar{
 	padding-top: 0.5%;
