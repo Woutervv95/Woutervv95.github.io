@@ -4,7 +4,7 @@ html,body {
 	height: 100%; 
 	width: 100%;
 	background-image:url('images/imagebackground.jpg');
-	position:relative;
+	position:fixed;
 	z-index: -2;
 }
 
