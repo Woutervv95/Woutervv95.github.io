@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<div id="title-bar" >
+<h1 class="titlecenter" >My portfolio</h1>
+
+</div>
+</head>
+<body class=body>
+
+<div id="contentbox">
+<div id="content">
+<h2> MIT1: Prototyping</h2>
+<p>Bij deze opdracht is het de bedoeling om een protoype van een wekker te maken.</p>
+
+<img border="0" src="images/prototype.jpg" width="850" height="500"/>
+<p>Ik heb voor een wekker in de vorm van een applicatie gekozen. Er zijn twee schetsen, die van het hoofdmenu en een menu, waar de wekker wordt ingesteld. 
+De gebruiker kan bij het hoofdmenu bovenaan aanklikken welke wekkers hij inschakelt. De gebruiker kan de wekker instellen door de 1 van de wekkers in te drukken. Bij het instellen van de wekker kan de gebruiker met behulp van de
+ pijltjes omhoog/omlaag de tijd voor het afgaan bepalen. Bij de kolom daaronder kan de gebruiker aangeven welke dagen van de week de wekker actief moet zijn. </p>
+
+</div>
+</div>
+<div ID = "sidebar-left">
+	
+		  <ul> 
+  <li><a href="index.html">Home</a></li> 
+  <li><a href="blok1.html">Blok1</a> 
+      <ul> 
+      <li><a href="#">MIT1</a></li> 
+      <li><a href="#">MIT2</a></li> 
+      <li><a href="#">MIT3</a></li> 
+      </ul> 
+    </li> 
+  <li><a href="blok2.html">Blok2</a> 
+      <ul> 
+      <li><a href="#">Onbegeleid groepswerk</a></li> 
+      <li><a href="#">Rode draad opdracht</a></li> 
+      
+      </ul> 
+    </li>
+  <li><a href="blok3en4.html">Blok3en4</a>
+      <ul> 
+      <li><a href="#">Artis</a></li> 
+	  <li><a href="#">Artis-opdracht</a></li> 
+      </ul> 
+    </li> 
+	<li><a href="dump.html" >Dump </a> </li>
+  </ul>
+	</div>
+<div ID = "footer">	
+Wouter van Velzen/Informatiekunde/2014
+</footer>
+</body class=body>
+</html>

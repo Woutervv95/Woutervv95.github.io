@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<div id="title-bar" >
+<h1 class="titlecenter" >My portfolio</h1>
+
+</div>
+</head>
+<body class=body>
+
+<div id="content">
+<p><embed src="images/ikea.pdf" width="830" height="1150"></p>
+</div>
+<div ID = "sidebar-left">
+	
+		  <ul> 
+  <li><a href="#">Home</a></li> 
+  <li><a href="blok1.html">Blok1</a> 
+      <ul> 
+      <li><a href="#">MIT1</a></li> 
+      <li><a href="#">MIT2</a></li> 
+      <li><a href="#">MIT3</a></li> 
+      </ul> 
+    </li> 
+  <li><a href="#">Blok2</a> 
+      <ul> 
+      <li><a href="#">Onbegeleid groepswerk</a></li> 
+      <li><a href="#">Rode draad opdracht</a></li> 
+      
+      </ul> 
+    </li>
+  <li><a href="#">Blok3en4</a>
+      <ul> 
+      <li><a href="#">Artis</a></li> 
+	  <li><a href="#">Artis-opdracht</a></li> 
+      </ul> 
+    </li> 
+	<li><a href="#" >Dump </a> </li>
+  </ul>
+	</div>
+</body class=body>
+</html>

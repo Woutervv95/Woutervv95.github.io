@@ -3,23 +3,25 @@
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
 <div id="title-bar" >
-<h1 class="titlecenter" >My Portfolio: Wouter van Velzen</h1>
-<div id="logo">
-<a href="index.html"><img border="0" src="images/logo.jpg"  width="75" height="75"></a>
-</div>
+<h1 class="titlecenter" >My portfolio</h1>
+
 </div>
 </head>
 <body class=body>
 
 <div id="contentbox">
 <div id="content">
-<p>Welkom op mijn portfolio. Deze portfolio is gemaakt voor het vak multimedia design en interactieontwerp(MMIO). De opdrachten van de afgelopen weken worden hier gepresenteerd. 
-Ik ben Wouter van Velzen en studeer aan de Universiteit van Amsterdam. Ik volg hier de studie Informatiekunde.</p>
+<h2> MIT2: Learnability</h2>
+<iframe width="420" height="345"
+src="http://www.youtube.com/embed/7XAQ3bhUsTs">
+</iframe>
+<p>Filmpje over de Smart thermostaat. <a href="dump.html" target="_blank">Klik hier voor de schetsen!</a></p>
+
 </div>
 </div>
 <div ID = "sidebar-left">
 	
-		 <ul> 
+		  <ul> 
   <li><a href="index.html">Home</a></li> 
   <li><a href="blok1.html">Blok1</a> 
       <ul> 
@@ -30,8 +32,8 @@ Ik ben Wouter van Velzen en studeer aan de Universiteit van Amsterdam. Ik volg h
     </li> 
   <li><a href="blok2.html">Blok2</a> 
       <ul> 
-      <li><a href="groepswerk.html">Onbegeleid groepswerk</a></li> 
-      <li><a href="rodeopdracht.html">Rode draad opdracht</a></li> 
+      <li><a href="#">Onbegeleid groepswerk</a></li> 
+      <li><a href="#">Rode draad opdracht</a></li> 
       
       </ul> 
     </li>
@@ -44,8 +46,8 @@ Ik ben Wouter van Velzen en studeer aan de Universiteit van Amsterdam. Ik volg h
 	<li><a href="dump.html" >Dump </a> </li>
   </ul>
 	</div>
-<div id ="footer">	
+<div ID = "footer">	
 Wouter van Velzen/Informatiekunde/2014
-</div>
+</footer>
 </body class=body>
 </html>
