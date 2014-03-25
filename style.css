@@ -77,8 +77,8 @@ margin-top: 25%;
 #sidebar-left ul li a {
  display: block;
  text-decoration: none;
- color: #000000 ;
- background: #686868 ;
+ color: white ;
+ background: black  ;
  padding: 5px;
  border: 1px solid #000000 ;
  border-bottom: 0;
@@ -86,7 +86,7 @@ margin-top: 25%;
  #sidebar-left li:hover ul { 
 display: block; }
 #sidebar-left ul li a:hover {
-background: #5297A5;
+background: #CC6600;
 }
 #titlepage{
 margin-top: 8.5%;
