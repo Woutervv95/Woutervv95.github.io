@@ -6,6 +6,9 @@ html,body {
 	min-width: 960px;
 	float:left;
 	background-image:url('images/achtergrond.jpg');
+	font-family:  'Cardo', serif;
+	font-size:15px;
+	
 	
 }
 
@@ -34,7 +37,7 @@ margin-top: -5.7%;
 		position: absolute;
 		margin-left: 15%;
 		margin-right: 10%;
-		opacity: 0.5;
+		opacity: 0.8;
 		background-color: #FFFFFF;
 		width: 70%;
 
@@ -86,7 +89,7 @@ margin-top: 25%;
  #sidebar-left li:hover ul { 
 display: block; }
 #sidebar-left ul li a:hover {
-background: #CC6600;
+background: #C46B5D;
 }
 #titlepage{
 margin-top: 8.5%;
@@ -95,11 +98,11 @@ margin-left: 60%;
 margin-right: 30%;
 }
 #footer{
-margin-top:20%;
+margin-top:50%;
 width:100%;
 background-color:black;
 text-align:center;
-height:30px;
+height:20px;
 position:fixed;
 color:white;
 bottom:0;
