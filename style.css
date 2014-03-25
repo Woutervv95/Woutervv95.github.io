@@ -7,7 +7,7 @@ html,body {
 	float:left;
 	background-image:url('images/achtergrond.jpg');
 	font-family:  'Cardo', serif;
-	font-size:15px;
+	font-size:18px;
 	
 	
 }
@@ -29,7 +29,7 @@ html,body {
 	}
 #logo{
 margin-left:1%;
-margin-top: -5.7%;
+margin-top: -6.8%;
 }
 #contentbox{
 		margin-top: 15%;
@@ -41,12 +41,14 @@ margin-top: -5.7%;
 		background-color: #FFFFFF;
 		width: 70%;
 		background-color:#FFE4C4;
-		
+		max-width:100%;
+		padding-bottom:40px;
 }
 #content{
-	margin-left: 10%;
-	margin-right: 5%;
+	margin-left: 2.55%;
+	margin-right: 2.55%;
 	opacity: 1;
+	margin-top:2.5%;
 }
 #subscription{
 word-spacing: 200px;
@@ -106,4 +108,5 @@ height:20px;
 position:fixed;
 color:white;
 bottom:0;
+
 }
