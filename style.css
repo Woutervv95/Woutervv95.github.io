@@ -30,6 +30,7 @@ html,body {
 #logo{
 margin-left:1%;
 margin-top: -6.8%;
+position:absolute;
 }
 #container{
 margin-top:15%;
